@@ -4,6 +4,18 @@ header {
 h2 {
     background-color: bisque;
     color: blue;
-    font-size: large;
+    font-size: 50px;
     font-family: monospace;
+}
+
+h3 {
+    background-color: bisque;
+    color: brown;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+  
 }
