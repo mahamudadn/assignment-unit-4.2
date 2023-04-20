@@ -1,27 +1,33 @@
+
 body {
 
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 1000px;
     border: 2px solid greenyellow;
 
 }
 
 header {
+
     background-color: aquamarine;
-    border: 4px solid brown;
+    border: 2px solid brown;
   
 }
 h2 {
     background-color: bisque;
     color: blue;
-    font-size: 40px;
+    font-size: 25px;
     font-family: monospace;
+    text-align: center;
+    padding: 10px 10px;
 }
 
 h3 {
-    background-color: bisque;
+    background-color: rgb(19, 201, 89);
     color: brown;
-    font-size: 30px;
+    font-size: 20px;
+    text-align: right;
+    padding: 10px 5px;
 }
 
 img{
