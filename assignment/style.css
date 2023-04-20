@@ -1,4 +1,9 @@
 header {
     background-color: aquamarine;
 }
-
+h2 {
+    background-color: bisque;
+    color: blue;
+    font-size: large;
+    font-family: monospace;
+}
